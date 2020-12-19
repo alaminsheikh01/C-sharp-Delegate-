@@ -1,0 +1,14 @@
+﻿<Window x:Class="DelegateDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DelegateDemo"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button FontSize="24px" Content="Call Method" HorizontalAlignment="Left" Margin="508,311,0,0" VerticalAlignment="Top" Width="225" Height="77" Click="Button_Click"/>
+        <ComboBox x:Name="methodType" HorizontalAlignment="Left" Margin="508,239,0,0" VerticalAlignment="Top" Width="225" Height="48"/>
+
+    </Grid>
+</Window>

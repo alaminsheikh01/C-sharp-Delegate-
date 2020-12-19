@@ -1,0 +1,5 @@
+E:\Users\alami\source\repos\DelegateDemo\obj\Debug\DelegateDemo.csprojAssemblyReference.cache
+E:\Users\alami\source\repos\DelegateDemo\obj\Debug\MainWindow.g.cs
+E:\Users\alami\source\repos\DelegateDemo\obj\Debug\App.g.cs
+E:\Users\alami\source\repos\DelegateDemo\obj\Debug\DelegateDemo_MarkupCompile.cache
+E:\Users\alami\source\repos\DelegateDemo\obj\Debug\DelegateDemo_MarkupCompile.lref
